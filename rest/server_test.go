@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/tal-tech/go-zero/rest/httpx"
-	"github.com/tal-tech/go-zero/rest/router"
+	"github.com/yileCJW/go-zero/rest/httpx"
+	"github.com/yileCJW/go-zero/rest/router"
 )
 
 func TestNewServer(t *testing.T) {

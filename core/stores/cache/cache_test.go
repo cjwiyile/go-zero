@@ -9,11 +9,11 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/tal-tech/go-zero/core/errorx"
-	"github.com/tal-tech/go-zero/core/hash"
-	"github.com/tal-tech/go-zero/core/stores/redis"
-	"github.com/tal-tech/go-zero/core/stores/redis/redistest"
-	"github.com/tal-tech/go-zero/core/syncx"
+	"github.com/yileCJW/go-zero/core/errorx"
+	"github.com/yileCJW/go-zero/core/hash"
+	"github.com/yileCJW/go-zero/core/stores/redis"
+	"github.com/yileCJW/go-zero/core/stores/redis/redistest"
+	"github.com/yileCJW/go-zero/core/syncx"
 )
 
 type mockedNode struct {

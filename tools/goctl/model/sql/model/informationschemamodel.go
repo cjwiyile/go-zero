@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/tal-tech/go-zero/core/stores/sqlx"
+	"github.com/yileCJW/go-zero/core/stores/sqlx"
 )
 
 type (

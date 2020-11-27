@@ -7,12 +7,12 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/tal-tech/go-zero/tools/goctl/api/spec"
-	"github.com/tal-tech/go-zero/tools/goctl/api/util"
-	"github.com/tal-tech/go-zero/tools/goctl/config"
-	ctlutil "github.com/tal-tech/go-zero/tools/goctl/util"
-	"github.com/tal-tech/go-zero/tools/goctl/util/format"
-	"github.com/tal-tech/go-zero/tools/goctl/vars"
+	"github.com/yileCJW/go-zero/tools/goctl/api/spec"
+	"github.com/yileCJW/go-zero/tools/goctl/api/util"
+	"github.com/yileCJW/go-zero/tools/goctl/config"
+	ctlutil "github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yileCJW/go-zero/tools/goctl/util/format"
+	"github.com/yileCJW/go-zero/tools/goctl/vars"
 )
 
 const logicTemplate = `package logic

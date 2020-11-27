@@ -9,8 +9,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/tal-tech/go-zero/core/cmdline"
-	"github.com/tal-tech/go-zero/core/logx"
+	"github.com/yileCJW/go-zero/core/cmdline"
+	"github.com/yileCJW/go-zero/core/logx"
 )
 
 const (

@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/tal-tech/go-zero/core/discov"
-	"github.com/tal-tech/go-zero/example/rpc/remote/unary"
-	"github.com/tal-tech/go-zero/zrpc"
+	"github.com/yileCJW/go-zero/core/discov"
+	"github.com/yileCJW/go-zero/example/rpc/remote/unary"
+	"github.com/yileCJW/go-zero/zrpc"
 )
 
 const timeFormat = "15:04:05"

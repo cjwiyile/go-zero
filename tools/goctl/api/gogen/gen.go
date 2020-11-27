@@ -12,12 +12,12 @@ import (
 	"time"
 
 	"github.com/logrusorgru/aurora"
-	"github.com/tal-tech/go-zero/core/logx"
-	apiformat "github.com/tal-tech/go-zero/tools/goctl/api/format"
-	"github.com/tal-tech/go-zero/tools/goctl/api/parser"
-	apiutil "github.com/tal-tech/go-zero/tools/goctl/api/util"
-	"github.com/tal-tech/go-zero/tools/goctl/config"
-	"github.com/tal-tech/go-zero/tools/goctl/util"
+	"github.com/yileCJW/go-zero/core/logx"
+	apiformat "github.com/yileCJW/go-zero/tools/goctl/api/format"
+	"github.com/yileCJW/go-zero/tools/goctl/api/parser"
+	apiutil "github.com/yileCJW/go-zero/tools/goctl/api/util"
+	"github.com/yileCJW/go-zero/tools/goctl/config"
+	"github.com/yileCJW/go-zero/tools/goctl/util"
 	"github.com/urfave/cli"
 )
 

@@ -10,7 +10,7 @@ import (
 
 	add "bookstore/rpc/add/internal/pb"
 
-	"github.com/tal-tech/go-zero/zrpc"
+	"github.com/yileCJW/go-zero/zrpc"
 )
 
 type (

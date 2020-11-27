@@ -3,7 +3,7 @@ package name
 import (
 	"strings"
 
-	"github.com/tal-tech/go-zero/tools/goctl/util/stringx"
+	"github.com/yileCJW/go-zero/tools/goctl/util/stringx"
 )
 
 type NamingStyle = string

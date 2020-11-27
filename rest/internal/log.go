@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/tal-tech/go-zero/core/logx"
-	"github.com/tal-tech/go-zero/rest/httpx"
+	"github.com/yileCJW/go-zero/core/logx"
+	"github.com/yileCJW/go-zero/rest/httpx"
 )
 
 var LogContext = contextKey("request_logs")

@@ -7,13 +7,13 @@ import (
 	"strings"
 
 	"github.com/go-sql-driver/mysql"
-	"github.com/tal-tech/go-zero/core/logx"
-	"github.com/tal-tech/go-zero/core/stores/sqlx"
-	"github.com/tal-tech/go-zero/tools/goctl/config"
-	"github.com/tal-tech/go-zero/tools/goctl/model/sql/gen"
-	"github.com/tal-tech/go-zero/tools/goctl/model/sql/model"
-	"github.com/tal-tech/go-zero/tools/goctl/model/sql/util"
-	"github.com/tal-tech/go-zero/tools/goctl/util/console"
+	"github.com/yileCJW/go-zero/core/logx"
+	"github.com/yileCJW/go-zero/core/stores/sqlx"
+	"github.com/yileCJW/go-zero/tools/goctl/config"
+	"github.com/yileCJW/go-zero/tools/goctl/model/sql/gen"
+	"github.com/yileCJW/go-zero/tools/goctl/model/sql/model"
+	"github.com/yileCJW/go-zero/tools/goctl/model/sql/util"
+	"github.com/yileCJW/go-zero/tools/goctl/util/console"
 	"github.com/urfave/cli"
 )
 

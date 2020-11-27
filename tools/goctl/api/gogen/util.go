@@ -7,10 +7,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/tal-tech/go-zero/core/collection"
-	"github.com/tal-tech/go-zero/tools/goctl/api/spec"
-	"github.com/tal-tech/go-zero/tools/goctl/api/util"
-	"github.com/tal-tech/go-zero/tools/goctl/util/ctx"
+	"github.com/yileCJW/go-zero/core/collection"
+	"github.com/yileCJW/go-zero/tools/goctl/api/spec"
+	"github.com/yileCJW/go-zero/tools/goctl/api/util"
+	"github.com/yileCJW/go-zero/tools/goctl/util/ctx"
 )
 
 func getParentPackage(dir string) (string, error) {

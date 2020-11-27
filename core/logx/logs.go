@@ -17,9 +17,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/tal-tech/go-zero/core/iox"
-	"github.com/tal-tech/go-zero/core/sysx"
-	"github.com/tal-tech/go-zero/core/timex"
+	"github.com/yileCJW/go-zero/core/iox"
+	"github.com/yileCJW/go-zero/core/sysx"
+	"github.com/yileCJW/go-zero/core/timex"
 )
 
 const (
