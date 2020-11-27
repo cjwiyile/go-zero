@@ -3,9 +3,9 @@ package handler
 import (
 	"net/http"
 
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/sysx"
-	"github.com/yileCJW/go-zero/core/trace"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/sysx"
+	"github.com/yilefreedom/go-zero/core/trace"
 )
 
 func TracingHandler(next http.Handler) http.Handler {

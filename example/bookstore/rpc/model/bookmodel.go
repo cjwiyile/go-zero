@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/yileCJW/go-zero/core/stores/cache"
-	"github.com/yileCJW/go-zero/core/stores/sqlc"
-	"github.com/yileCJW/go-zero/core/stores/sqlx"
-	"github.com/yileCJW/go-zero/core/stringx"
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/builderx"
+	"github.com/yilefreedom/go-zero/core/stores/cache"
+	"github.com/yilefreedom/go-zero/core/stores/sqlc"
+	"github.com/yilefreedom/go-zero/core/stores/sqlx"
+	"github.com/yilefreedom/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/builderx"
 )
 
 var (

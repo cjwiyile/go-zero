@@ -6,11 +6,11 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/fx"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/service"
-	"github.com/yileCJW/go-zero/core/stat"
-	"github.com/yileCJW/go-zero/rest"
+	"github.com/yilefreedom/go-zero/core/fx"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/service"
+	"github.com/yilefreedom/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/rest"
 )
 
 const duration = time.Millisecond

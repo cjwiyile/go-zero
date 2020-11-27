@@ -9,13 +9,13 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/yileCJW/go-zero/core/collection"
-	"github.com/yileCJW/go-zero/tools/goctl/api/spec"
-	apiutil "github.com/yileCJW/go-zero/tools/goctl/api/util"
-	"github.com/yileCJW/go-zero/tools/goctl/config"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
-	"github.com/yileCJW/go-zero/tools/goctl/util/format"
-	"github.com/yileCJW/go-zero/tools/goctl/vars"
+	"github.com/yilefreedom/go-zero/core/collection"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/spec"
+	apiutil "github.com/yilefreedom/go-zero/tools/goctl/api/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/config"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/format"
+	"github.com/yilefreedom/go-zero/tools/goctl/vars"
 )
 
 const (

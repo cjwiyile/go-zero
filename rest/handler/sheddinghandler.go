@@ -4,11 +4,11 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/yileCJW/go-zero/core/load"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/stat"
-	"github.com/yileCJW/go-zero/rest/httpx"
-	"github.com/yileCJW/go-zero/rest/internal/security"
+	"github.com/yilefreedom/go-zero/core/load"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/rest/httpx"
+	"github.com/yilefreedom/go-zero/rest/internal/security"
 )
 
 const serviceType = "api"

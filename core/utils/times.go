@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/timex"
+	"github.com/yilefreedom/go-zero/core/timex"
 )
 
 type ElapsedTimer struct {

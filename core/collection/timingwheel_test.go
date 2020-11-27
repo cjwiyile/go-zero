@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/lang"
-	"github.com/yileCJW/go-zero/core/stringx"
-	"github.com/yileCJW/go-zero/core/syncx"
-	"github.com/yileCJW/go-zero/core/timex"
+	"github.com/yilefreedom/go-zero/core/lang"
+	"github.com/yilefreedom/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/core/syncx"
+	"github.com/yilefreedom/go-zero/core/timex"
 )
 
 const (

@@ -3,7 +3,7 @@ package trace
 import (
 	"context"
 
-	"github.com/yileCJW/go-zero/core/trace/tracespec"
+	"github.com/yilefreedom/go-zero/core/trace/tracespec"
 )
 
 var emptyNoopSpan = noopSpan{}

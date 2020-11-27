@@ -8,7 +8,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/collection"
+	"github.com/yilefreedom/go-zero/core/collection"
 )
 
 const interval = time.Minute

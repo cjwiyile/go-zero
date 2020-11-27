@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/yileCJW/go-zero/tools/goctl/api/spec"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/spec"
 )
 
 var (

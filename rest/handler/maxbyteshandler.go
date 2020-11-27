@@ -3,7 +3,7 @@ package handler
 import (
 	"net/http"
 
-	"github.com/yileCJW/go-zero/rest/internal"
+	"github.com/yilefreedom/go-zero/rest/internal"
 )
 
 func MaxBytesHandler(n int64) func(http.Handler) http.Handler {

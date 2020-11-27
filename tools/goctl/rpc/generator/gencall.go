@@ -5,12 +5,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yileCJW/go-zero/core/collection"
-	conf "github.com/yileCJW/go-zero/tools/goctl/config"
-	"github.com/yileCJW/go-zero/tools/goctl/rpc/parser"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
-	"github.com/yileCJW/go-zero/tools/goctl/util/format"
-	"github.com/yileCJW/go-zero/tools/goctl/util/stringx"
+	"github.com/yilefreedom/go-zero/core/collection"
+	conf "github.com/yilefreedom/go-zero/tools/goctl/config"
+	"github.com/yilefreedom/go-zero/tools/goctl/rpc/parser"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/format"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/stringx"
 )
 
 const (
@@ -25,7 +25,7 @@ import (
 
 	{{.package}}
 
-	"github.com/yileCJW/go-zero/zrpc"
+	"github.com/yilefreedom/go-zero/zrpc"
 )
 
 type (

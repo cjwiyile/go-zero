@@ -7,7 +7,7 @@ import (
 	"shorturl/api/internal/svc"
 	"shorturl/api/internal/types"
 
-	"github.com/yileCJW/go-zero/rest/httpx"
+	"github.com/yilefreedom/go-zero/rest/httpx"
 )
 
 func expandHandler(ctx *svc.ServiceContext) http.HandlerFunc {

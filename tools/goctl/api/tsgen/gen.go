@@ -5,9 +5,9 @@ import (
 	"fmt"
 
 	"github.com/logrusorgru/aurora"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/tools/goctl/api/parser"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/parser"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 	"github.com/urfave/cli"
 )
 

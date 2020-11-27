@@ -7,10 +7,10 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/stringx"
-	conf "github.com/yileCJW/go-zero/tools/goctl/config"
-	"github.com/yileCJW/go-zero/tools/goctl/rpc/execx"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/stringx"
+	conf "github.com/yilefreedom/go-zero/tools/goctl/config"
+	"github.com/yilefreedom/go-zero/tools/goctl/rpc/execx"
 )
 
 var cfg = &conf.Config{

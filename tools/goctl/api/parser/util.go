@@ -3,7 +3,7 @@ package parser
 import (
 	"bufio"
 
-	"github.com/yileCJW/go-zero/tools/goctl/api/spec"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/spec"
 )
 
 var emptyType spec.Type

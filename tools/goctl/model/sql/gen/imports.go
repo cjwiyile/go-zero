@@ -1,8 +1,8 @@
 package gen
 
 import (
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/template"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/template"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 )
 
 func genImports(withCache, timeImport bool) (string, error) {

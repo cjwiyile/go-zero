@@ -6,9 +6,9 @@ import (
 
 	"github.com/alicebob/miniredis/v2"
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/stores/redis"
-	"github.com/yileCJW/go-zero/core/stores/redis/redistest"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/stores/redis"
+	"github.com/yilefreedom/go-zero/core/stores/redis/redistest"
 )
 
 func init() {

@@ -5,11 +5,11 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/service"
-	"github.com/yileCJW/go-zero/core/stat"
-	"github.com/yileCJW/go-zero/core/syncx"
-	"github.com/yileCJW/go-zero/rest"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/service"
+	"github.com/yilefreedom/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/core/syncx"
+	"github.com/yilefreedom/go-zero/rest"
 )
 
 func main() {

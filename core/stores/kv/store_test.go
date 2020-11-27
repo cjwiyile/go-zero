@@ -6,10 +6,10 @@ import (
 
 	"github.com/alicebob/miniredis/v2"
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/hash"
-	"github.com/yileCJW/go-zero/core/stores/cache"
-	"github.com/yileCJW/go-zero/core/stores/redis"
-	"github.com/yileCJW/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/core/hash"
+	"github.com/yilefreedom/go-zero/core/stores/cache"
+	"github.com/yilefreedom/go-zero/core/stores/redis"
+	"github.com/yilefreedom/go-zero/core/stringx"
 )
 
 var s1, _ = miniredis.Run()

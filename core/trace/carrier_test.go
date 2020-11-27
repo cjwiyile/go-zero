@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/core/stringx"
 )
 
 func TestHttpCarrier(t *testing.T) {

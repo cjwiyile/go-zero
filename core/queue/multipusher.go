@@ -1,6 +1,6 @@
 package queue
 
-import "github.com/yileCJW/go-zero/core/errorx"
+import "github.com/yilefreedom/go-zero/core/errorx"
 
 type MultiPusher struct {
 	name    string

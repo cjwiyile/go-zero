@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/mathx"
+	"github.com/yilefreedom/go-zero/core/mathx"
 )
 
 func TestSubset(t *testing.T) {

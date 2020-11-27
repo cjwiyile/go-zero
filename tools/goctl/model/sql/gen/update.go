@@ -3,9 +3,9 @@ package gen
 import (
 	"strings"
 
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/template"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
-	"github.com/yileCJW/go-zero/tools/goctl/util/stringx"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/template"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/stringx"
 )
 
 func genUpdate(table Table, withCache bool) (string, string, error) {

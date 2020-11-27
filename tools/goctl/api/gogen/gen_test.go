@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/tools/goctl/api/parser"
-	"github.com/yileCJW/go-zero/tools/goctl/rpc/execx"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/parser"
+	"github.com/yilefreedom/go-zero/tools/goctl/rpc/execx"
 )
 
 const testApiTemplate = `

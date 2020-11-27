@@ -12,12 +12,12 @@ import (
 	"time"
 
 	"github.com/logrusorgru/aurora"
-	"github.com/yileCJW/go-zero/core/logx"
-	apiformat "github.com/yileCJW/go-zero/tools/goctl/api/format"
-	"github.com/yileCJW/go-zero/tools/goctl/api/parser"
-	apiutil "github.com/yileCJW/go-zero/tools/goctl/api/util"
-	"github.com/yileCJW/go-zero/tools/goctl/config"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/core/logx"
+	apiformat "github.com/yilefreedom/go-zero/tools/goctl/api/format"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/parser"
+	apiutil "github.com/yilefreedom/go-zero/tools/goctl/api/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/config"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 	"github.com/urfave/cli"
 )
 

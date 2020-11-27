@@ -9,9 +9,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/conf"
-	"github.com/yileCJW/go-zero/example/rpc/remote/unary"
-	"github.com/yileCJW/go-zero/zrpc"
+	"github.com/yilefreedom/go-zero/core/conf"
+	"github.com/yilefreedom/go-zero/example/rpc/remote/unary"
+	"github.com/yilefreedom/go-zero/zrpc"
 	"google.golang.org/grpc"
 )
 

@@ -1,8 +1,8 @@
 package collection
 
 import (
-	"github.com/yileCJW/go-zero/core/lang"
-	"github.com/yileCJW/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/lang"
+	"github.com/yilefreedom/go-zero/core/logx"
 )
 
 const (

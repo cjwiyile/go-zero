@@ -3,7 +3,7 @@ package mongo
 
 import (
 	"github.com/globalsign/mgo/bson"
-	"github.com/yileCJW/go-zero/core/breaker"
+	"github.com/yilefreedom/go-zero/core/breaker"
 )
 
 type (

@@ -5,7 +5,7 @@ import (
 	"bookstore/rpc/add/adder"
 	"bookstore/rpc/check/checker"
 
-	"github.com/yileCJW/go-zero/zrpc"
+	"github.com/yilefreedom/go-zero/zrpc"
 )
 
 type ServiceContext struct {

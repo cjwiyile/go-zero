@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yileCJW/go-zero/core/errorx"
-	"github.com/yileCJW/go-zero/tools/goctl/api/parser"
-	"github.com/yileCJW/go-zero/tools/goctl/api/util"
+	"github.com/yilefreedom/go-zero/core/errorx"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/parser"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/util"
 	"github.com/urfave/cli"
 )
 

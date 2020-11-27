@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/metric"
-	"github.com/yileCJW/go-zero/core/timex"
-	"github.com/yileCJW/go-zero/rest/internal/security"
+	"github.com/yilefreedom/go-zero/core/metric"
+	"github.com/yilefreedom/go-zero/core/timex"
+	"github.com/yilefreedom/go-zero/rest/internal/security"
 )
 
 const serverNamespace = "http_server"

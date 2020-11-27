@@ -7,13 +7,13 @@ import (
 	"time"
 
 	"github.com/justinas/alice"
-	"github.com/yileCJW/go-zero/core/codec"
-	"github.com/yileCJW/go-zero/core/load"
-	"github.com/yileCJW/go-zero/core/stat"
-	"github.com/yileCJW/go-zero/rest/handler"
-	"github.com/yileCJW/go-zero/rest/httpx"
-	"github.com/yileCJW/go-zero/rest/internal"
-	"github.com/yileCJW/go-zero/rest/router"
+	"github.com/yilefreedom/go-zero/core/codec"
+	"github.com/yilefreedom/go-zero/core/load"
+	"github.com/yilefreedom/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/rest/handler"
+	"github.com/yilefreedom/go-zero/rest/httpx"
+	"github.com/yilefreedom/go-zero/rest/internal"
+	"github.com/yilefreedom/go-zero/rest/router"
 )
 
 // use 1000m to represent 100%

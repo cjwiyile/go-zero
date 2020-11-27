@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 )
 
 // projectFromGoPath is used to find the main module and project file path

@@ -7,12 +7,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/executors"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/example/graceful/etcd/api/svc"
-	"github.com/yileCJW/go-zero/example/graceful/etcd/api/types"
-	"github.com/yileCJW/go-zero/example/graceful/etcd/rpc/graceful"
-	"github.com/yileCJW/go-zero/rest/httpx"
+	"github.com/yilefreedom/go-zero/core/executors"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/example/graceful/etcd/api/svc"
+	"github.com/yilefreedom/go-zero/example/graceful/etcd/api/types"
+	"github.com/yilefreedom/go-zero/example/graceful/etcd/rpc/graceful"
+	"github.com/yilefreedom/go-zero/rest/httpx"
 )
 
 func gracefulHandler(ctx *svc.ServiceContext) http.HandlerFunc {

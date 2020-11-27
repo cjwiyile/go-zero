@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/trace/tracespec"
+	"github.com/yilefreedom/go-zero/core/trace/tracespec"
 )
 
 func TestTracingHandler(t *testing.T) {

@@ -3,10 +3,10 @@ package service
 import (
 	"log"
 
-	"github.com/yileCJW/go-zero/core/load"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/prometheus"
-	"github.com/yileCJW/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/core/load"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/prometheus"
+	"github.com/yilefreedom/go-zero/core/stat"
 )
 
 const (

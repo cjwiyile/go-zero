@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/filex"
-	"github.com/yileCJW/go-zero/core/fx"
-	"github.com/yileCJW/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/filex"
+	"github.com/yilefreedom/go-zero/core/fx"
+	"github.com/yilefreedom/go-zero/core/logx"
 	"gopkg.in/cheggaaa/pb.v1"
 )
 

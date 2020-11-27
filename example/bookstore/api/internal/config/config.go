@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/yileCJW/go-zero/rest"
-	"github.com/yileCJW/go-zero/zrpc"
+	"github.com/yilefreedom/go-zero/rest"
+	"github.com/yilefreedom/go-zero/zrpc"
 )
 
 type Config struct {

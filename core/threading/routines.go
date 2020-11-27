@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/yileCJW/go-zero/core/rescue"
+	"github.com/yilefreedom/go-zero/core/rescue"
 )
 
 func GoSafe(fn func()) {

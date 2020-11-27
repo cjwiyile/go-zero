@@ -7,8 +7,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/yileCJW/go-zero/tools/goctl/util"
-	ctlutil "github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
+	ctlutil "github.com/yilefreedom/go-zero/tools/goctl/util"
 	"github.com/urfave/cli"
 )
 

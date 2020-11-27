@@ -6,13 +6,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/load"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/netx"
-	"github.com/yileCJW/go-zero/core/stat"
-	"github.com/yileCJW/go-zero/zrpc/internal"
-	"github.com/yileCJW/go-zero/zrpc/internal/auth"
-	"github.com/yileCJW/go-zero/zrpc/internal/serverinterceptors"
+	"github.com/yilefreedom/go-zero/core/load"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/netx"
+	"github.com/yilefreedom/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/zrpc/internal"
+	"github.com/yilefreedom/go-zero/zrpc/internal/auth"
+	"github.com/yilefreedom/go-zero/zrpc/internal/serverinterceptors"
 	"google.golang.org/grpc"
 )
 

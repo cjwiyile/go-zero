@@ -7,7 +7,7 @@ import (
 
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
-	"github.com/yileCJW/go-zero/core/stores/mongo"
+	"github.com/yilefreedom/go-zero/core/stores/mongo"
 )
 
 type Roster struct {

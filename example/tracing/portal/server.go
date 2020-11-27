@@ -4,10 +4,10 @@ import (
 	"context"
 	"flag"
 
-	"github.com/yileCJW/go-zero/core/conf"
-	"github.com/yileCJW/go-zero/example/tracing/remote/portal"
-	"github.com/yileCJW/go-zero/example/tracing/remote/user"
-	"github.com/yileCJW/go-zero/zrpc"
+	"github.com/yilefreedom/go-zero/core/conf"
+	"github.com/yilefreedom/go-zero/example/tracing/remote/portal"
+	"github.com/yilefreedom/go-zero/example/tracing/remote/user"
+	"github.com/yilefreedom/go-zero/zrpc"
 	"google.golang.org/grpc"
 )
 

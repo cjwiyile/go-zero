@@ -6,8 +6,8 @@ import (
 	"io"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/timex"
-	"github.com/yileCJW/go-zero/core/trace/tracespec"
+	"github.com/yilefreedom/go-zero/core/timex"
+	"github.com/yilefreedom/go-zero/core/trace/tracespec"
 )
 
 type traceLogger struct {

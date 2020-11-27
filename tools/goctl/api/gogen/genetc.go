@@ -6,11 +6,11 @@ import (
 	"strconv"
 	"text/template"
 
-	"github.com/yileCJW/go-zero/tools/goctl/api/spec"
-	"github.com/yileCJW/go-zero/tools/goctl/api/util"
-	"github.com/yileCJW/go-zero/tools/goctl/config"
-	ctlutil "github.com/yileCJW/go-zero/tools/goctl/util"
-	"github.com/yileCJW/go-zero/tools/goctl/util/format"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/spec"
+	"github.com/yilefreedom/go-zero/tools/goctl/api/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/config"
+	ctlutil "github.com/yilefreedom/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/format"
 )
 
 const (

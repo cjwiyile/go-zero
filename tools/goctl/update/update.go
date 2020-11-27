@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"path"
 
-	"github.com/yileCJW/go-zero/core/conf"
-	"github.com/yileCJW/go-zero/core/hash"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/tools/goctl/update/config"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/core/conf"
+	"github.com/yilefreedom/go-zero/core/hash"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/tools/goctl/update/config"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 )
 
 const (

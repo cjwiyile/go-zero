@@ -3,9 +3,9 @@ package service
 import (
 	"log"
 
-	"github.com/yileCJW/go-zero/core/proc"
-	"github.com/yileCJW/go-zero/core/syncx"
-	"github.com/yileCJW/go-zero/core/threading"
+	"github.com/yilefreedom/go-zero/core/proc"
+	"github.com/yilefreedom/go-zero/core/syncx"
+	"github.com/yilefreedom/go-zero/core/threading"
 )
 
 type (

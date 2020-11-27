@@ -10,8 +10,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/fx"
-	"github.com/yileCJW/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/fx"
+	"github.com/yilefreedom/go-zero/core/logx"
 )
 
 var (

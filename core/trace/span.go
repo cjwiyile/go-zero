@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/stringx"
-	"github.com/yileCJW/go-zero/core/timex"
-	"github.com/yileCJW/go-zero/core/trace/tracespec"
+	"github.com/yilefreedom/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/core/timex"
+	"github.com/yilefreedom/go-zero/core/trace/tracespec"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"runtime/debug"
 
-	"github.com/yileCJW/go-zero/rest/internal"
+	"github.com/yilefreedom/go-zero/rest/internal"
 )
 
 func RecoverHandler(next http.Handler) http.Handler {

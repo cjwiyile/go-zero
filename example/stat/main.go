@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/core/stat"
 )
 
 func main() {

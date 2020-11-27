@@ -10,9 +10,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/jsonx"
-	"github.com/yileCJW/go-zero/core/lang"
-	"github.com/yileCJW/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/core/jsonx"
+	"github.com/yilefreedom/go-zero/core/lang"
+	"github.com/yilefreedom/go-zero/core/stringx"
 )
 
 const (

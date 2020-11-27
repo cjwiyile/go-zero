@@ -3,7 +3,7 @@ package gogen
 import (
 	"fmt"
 
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 	"github.com/urfave/cli"
 )
 

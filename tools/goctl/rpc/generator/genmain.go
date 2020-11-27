@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	conf "github.com/yileCJW/go-zero/tools/goctl/config"
-	"github.com/yileCJW/go-zero/tools/goctl/rpc/parser"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
-	"github.com/yileCJW/go-zero/tools/goctl/util/format"
-	"github.com/yileCJW/go-zero/tools/goctl/util/stringx"
+	conf "github.com/yilefreedom/go-zero/tools/goctl/config"
+	"github.com/yilefreedom/go-zero/tools/goctl/rpc/parser"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/format"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/stringx"
 )
 
 const mainTemplate = `{{.head}}
@@ -22,8 +22,8 @@ import (
 
 	{{.imports}}
 
-	"github.com/yileCJW/go-zero/core/conf"
-	"github.com/yileCJW/go-zero/zrpc"
+	"github.com/yilefreedom/go-zero/core/conf"
+	"github.com/yilefreedom/go-zero/zrpc"
 	"google.golang.org/grpc"
 )
 

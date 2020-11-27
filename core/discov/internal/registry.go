@@ -9,11 +9,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/contextx"
-	"github.com/yileCJW/go-zero/core/lang"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/syncx"
-	"github.com/yileCJW/go-zero/core/threading"
+	"github.com/yilefreedom/go-zero/core/contextx"
+	"github.com/yilefreedom/go-zero/core/lang"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/syncx"
+	"github.com/yilefreedom/go-zero/core/threading"
 	"go.etcd.io/etcd/clientv3"
 )
 

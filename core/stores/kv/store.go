@@ -4,10 +4,10 @@ import (
 	"errors"
 	"log"
 
-	"github.com/yileCJW/go-zero/core/errorx"
-	"github.com/yileCJW/go-zero/core/hash"
-	"github.com/yileCJW/go-zero/core/stores/cache"
-	"github.com/yileCJW/go-zero/core/stores/redis"
+	"github.com/yilefreedom/go-zero/core/errorx"
+	"github.com/yilefreedom/go-zero/core/hash"
+	"github.com/yilefreedom/go-zero/core/stores/cache"
+	"github.com/yilefreedom/go-zero/core/stores/redis"
 )
 
 var ErrNoRedisNode = errors.New("no redis node")

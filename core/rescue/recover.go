@@ -1,6 +1,6 @@
 package rescue
 
-import "github.com/yileCJW/go-zero/core/logx"
+import "github.com/yilefreedom/go-zero/core/logx"
 
 func Recover(cleanups ...func()) {
 	for _, cleanup := range cleanups {

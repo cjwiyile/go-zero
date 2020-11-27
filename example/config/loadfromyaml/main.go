@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"github.com/yileCJW/go-zero/core/conf"
-	"github.com/yileCJW/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/conf"
+	"github.com/yilefreedom/go-zero/core/logx"
 )
 
 type TimeHolder struct {

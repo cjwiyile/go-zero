@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/stringx"
-	"github.com/yileCJW/go-zero/tools/goctl/rpc/execx"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/tools/goctl/rpc/execx"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 )
 
 func TestProjectFromGoMod(t *testing.T) {

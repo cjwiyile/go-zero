@@ -1,12 +1,12 @@
 package discov
 
 import (
-	"github.com/yileCJW/go-zero/core/discov/internal"
-	"github.com/yileCJW/go-zero/core/lang"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/proc"
-	"github.com/yileCJW/go-zero/core/syncx"
-	"github.com/yileCJW/go-zero/core/threading"
+	"github.com/yilefreedom/go-zero/core/discov/internal"
+	"github.com/yilefreedom/go-zero/core/lang"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/proc"
+	"github.com/yilefreedom/go-zero/core/syncx"
+	"github.com/yilefreedom/go-zero/core/threading"
 	"go.etcd.io/etcd/clientv3"
 )
 

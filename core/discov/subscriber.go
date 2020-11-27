@@ -4,8 +4,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/yileCJW/go-zero/core/discov/internal"
-	"github.com/yileCJW/go-zero/core/syncx"
+	"github.com/yilefreedom/go-zero/core/discov/internal"
+	"github.com/yilefreedom/go-zero/core/syncx"
 )
 
 type (

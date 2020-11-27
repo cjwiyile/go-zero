@@ -4,9 +4,9 @@ import (
 	"strings"
 
 	red "github.com/go-redis/redis"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/mapping"
-	"github.com/yileCJW/go-zero/core/timex"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/mapping"
+	"github.com/yilefreedom/go-zero/core/timex"
 )
 
 func process(proc func(red.Cmder) error) func(red.Cmder) error {

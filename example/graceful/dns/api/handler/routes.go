@@ -4,8 +4,8 @@ package handler
 import (
 	"net/http"
 
-	"github.com/yileCJW/go-zero/example/graceful/dns/api/svc"
-	"github.com/yileCJW/go-zero/rest"
+	"github.com/yilefreedom/go-zero/example/graceful/dns/api/svc"
+	"github.com/yilefreedom/go-zero/rest"
 )
 
 func RegisterHandlers(engine *rest.Server, ctx *svc.ServiceContext) {

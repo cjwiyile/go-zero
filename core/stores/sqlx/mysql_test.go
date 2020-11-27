@@ -5,9 +5,9 @@ import (
 
 	"github.com/go-sql-driver/mysql"
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/breaker"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/core/breaker"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/stat"
 )
 
 func init() {

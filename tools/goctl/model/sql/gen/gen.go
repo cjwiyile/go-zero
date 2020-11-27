@@ -7,15 +7,15 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yileCJW/go-zero/tools/goctl/config"
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/model"
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/parser"
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/template"
-	modelutil "github.com/yileCJW/go-zero/tools/goctl/model/sql/util"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
-	"github.com/yileCJW/go-zero/tools/goctl/util/console"
-	"github.com/yileCJW/go-zero/tools/goctl/util/format"
-	"github.com/yileCJW/go-zero/tools/goctl/util/stringx"
+	"github.com/yilefreedom/go-zero/tools/goctl/config"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/model"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/parser"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/template"
+	modelutil "github.com/yilefreedom/go-zero/tools/goctl/model/sql/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/console"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/format"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/stringx"
 )
 
 const (

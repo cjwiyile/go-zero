@@ -7,7 +7,7 @@ import (
 	"bookstore/api/internal/types"
 	"bookstore/rpc/check/checker"
 
-	"github.com/yileCJW/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/logx"
 )
 
 type CheckLogic struct {

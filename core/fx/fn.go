@@ -4,9 +4,9 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/yileCJW/go-zero/core/collection"
-	"github.com/yileCJW/go-zero/core/lang"
-	"github.com/yileCJW/go-zero/core/threading"
+	"github.com/yilefreedom/go-zero/core/collection"
+	"github.com/yilefreedom/go-zero/core/lang"
+	"github.com/yilefreedom/go-zero/core/threading"
 )
 
 const (

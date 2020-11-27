@@ -6,9 +6,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/yileCJW/go-zero/core/search"
-	"github.com/yileCJW/go-zero/rest/httpx"
-	"github.com/yileCJW/go-zero/rest/internal/context"
+	"github.com/yilefreedom/go-zero/core/search"
+	"github.com/yilefreedom/go-zero/rest/httpx"
+	"github.com/yilefreedom/go-zero/rest/internal/context"
 )
 
 const (

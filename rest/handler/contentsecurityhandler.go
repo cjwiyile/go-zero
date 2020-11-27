@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/codec"
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/rest/httpx"
-	"github.com/yileCJW/go-zero/rest/internal/security"
+	"github.com/yilefreedom/go-zero/core/codec"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/rest/httpx"
+	"github.com/yilefreedom/go-zero/rest/internal/security"
 )
 
 const contentSecurity = "X-Content-Security"

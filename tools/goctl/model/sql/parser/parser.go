@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/converter"
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/model"
-	"github.com/yileCJW/go-zero/tools/goctl/util/stringx"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/converter"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/model"
+	"github.com/yilefreedom/go-zero/tools/goctl/util/stringx"
 	"github.com/xwb1989/sqlparser"
 )
 

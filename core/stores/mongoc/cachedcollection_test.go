@@ -14,11 +14,11 @@ import (
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/core/stat"
-	"github.com/yileCJW/go-zero/core/stores/cache"
-	"github.com/yileCJW/go-zero/core/stores/mongo"
-	"github.com/yileCJW/go-zero/core/stores/redis"
-	"github.com/yileCJW/go-zero/core/stores/redis/redistest"
+	"github.com/yilefreedom/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/core/stores/cache"
+	"github.com/yilefreedom/go-zero/core/stores/mongo"
+	"github.com/yilefreedom/go-zero/core/stores/redis"
+	"github.com/yilefreedom/go-zero/core/stores/redis/redistest"
 )
 
 func init() {

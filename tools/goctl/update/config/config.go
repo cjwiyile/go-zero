@@ -1,6 +1,6 @@
 package config
 
-import "github.com/yileCJW/go-zero/core/logx"
+import "github.com/yilefreedom/go-zero/core/logx"
 
 type Config struct {
 	logx.LogConf

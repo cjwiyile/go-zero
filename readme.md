@@ -4,10 +4,10 @@
 
 [English](readme-en.md) | 简体中文
 
-[![Go](https://github.com/yileCJW/go-zero/workflows/Go/badge.svg?branch=master)](https://github.com/yileCJW/go-zero/actions)
-[![codecov](https://codecov.io/gh/tal-tech/go-zero/branch/master/graph/badge.svg)](https://codecov.io/gh/tal-tech/go-zero)
-[![Go Report Card](https://goreportcard.com/badge/github.com/yileCJW/go-zero)](https://goreportcard.com/report/github.com/yileCJW/go-zero)
-[![Release](https://img.shields.io/github/v/release/tal-tech/go-zero.svg?style=flat-square)](https://github.com/yileCJW/go-zero)
+[![Go](https://github.com/yilefreedom/go-zero/workflows/Go/badge.svg?branch=master)](https://github.com/yilefreedom/go-zero/actions)
+[![codecov](https://codecov.io/gh/yilefreedom/go-zero/branch/master/graph/badge.svg)](https://codecov.io/gh/yilefreedom/go-zero)
+[![Go Report Card](https://goreportcard.com/badge/github.com/yilefreedom/go-zero)](https://goreportcard.com/report/github.com/yilefreedom/go-zero)
+[![Release](https://img.shields.io/github/v/release/yilefreedom/go-zero.svg?style=flat-square)](https://github.com/yilefreedom/go-zero)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 0. go-zero 介绍
@@ -86,23 +86,23 @@ go-zero 是一个集成了各种工程实践的包含 web 和 rpc 框架，有�
 在项目目录下通过如下命令安装：
 
 ```shell
-GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/yileCJW/go-zero
+GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/yilefreedom/go-zero
 ```
 
 ## 5. Quick Start
 
 0. 完整示例请查看
 
-    [快速构建高并发微服务](https://github.com/tal-tech/zero-doc/blob/main/doc/shorturl.md)
+    [快速构建高并发微服务](https://github.com/yilefreedom/zero-doc/blob/main/doc/shorturl.md)
 
-    [快速构建高并发微服务 - 多 RPC 版](https://github.com/tal-tech/zero-doc/blob/main/docs/frame/bookstore.md)
+    [快速构建高并发微服务 - 多 RPC 版](https://github.com/yilefreedom/zero-doc/blob/main/docs/frame/bookstore.md)
 
 1. 安装 goctl 工具
 
     `goctl` 读作 `go control`，不要读成 `go C-T-L`。`goctl` 的意思是不要被代码控制，而是要去控制它。其中的 `go` 不是指 `golang`。在设计 `goctl` 之初，我就希望通过 ` 她 ` 来解放我们的双手👈
 
     ```shell
-    GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/yileCJW/go-zero/tools/goctl
+    GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/yilefreedom/go-zero/tools/goctl
     ```
 
     确保 goctl 可执行
@@ -136,7 +136,7 @@ GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/yileCJW/g
 
     编写业务代码：
 
-      * api 文件定义了服务对外暴露的路由，可参考 [api 规范](https://github.com/tal-tech/zero-doc/blob/main/doc/goctl.md)
+      * api 文件定义了服务对外暴露的路由，可参考 [api 规范](https://github.com/yilefreedom/zero-doc/blob/main/doc/goctl.md)
       * 可以在 servicecontext.go 里面传递依赖给 logic，比如 mysql, redis 等
       * 在 api 定义的 get/post/put/delete 等请求对应的 logic 里增加业务处理逻辑
 
@@ -158,19 +158,19 @@ GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/yileCJW/g
 
 * API 文档 (逐步完善中)
 
-  [https://www.yuque.com/tal-tech/go-zero](https://www.yuque.com/tal-tech/go-zero)
+  [https://www.yuque.com/yilefreedom/go-zero](https://www.yuque.com/yilefreedom/go-zero)
 
 * awesome 系列
-  * [快速构建高并发微服务](https://github.com/tal-tech/zero-doc/blob/main/doc/shorturl.md)
-  * [快速构建高并发微服务 - 多 RPC 版](https://github.com/tal-tech/zero-doc/blob/main/docs/frame/bookstore.md)
-  * [goctl 使用帮助](https://github.com/tal-tech/zero-doc/blob/main/doc/goctl.md)
-  * [通过 MapReduce 降低服务响应时间](https://github.com/tal-tech/zero-doc/blob/main/doc/mapreduce.md)
-  * [关键字替换和敏感词过滤工具](https://github.com/tal-tech/zero-doc/blob/main/doc/keywords.md)
-  * [进程内缓存使用方法](https://github.com/tal-tech/zero-doc/blob/main/doc/collection.md)
-  * [防止缓存击穿之进程内共享调用](https://github.com/tal-tech/zero-doc/blob/main/doc/sharedcalls.md)
-  * [基于 prometheus 的微服务指标监控](https://github.com/tal-tech/zero-doc/blob/main/doc/metric.md)
-  * [文本序列化和反序列化](https://github.com/tal-tech/zero-doc/blob/main/doc/mapping.md)
-  * [快速构建 jwt 鉴权认证](https://github.com/tal-tech/zero-doc/blob/main/doc/jwt.md)
+  * [快速构建高并发微服务](https://github.com/yilefreedom/zero-doc/blob/main/doc/shorturl.md)
+  * [快速构建高并发微服务 - 多 RPC 版](https://github.com/yilefreedom/zero-doc/blob/main/docs/frame/bookstore.md)
+  * [goctl 使用帮助](https://github.com/yilefreedom/zero-doc/blob/main/doc/goctl.md)
+  * [通过 MapReduce 降低服务响应时间](https://github.com/yilefreedom/zero-doc/blob/main/doc/mapreduce.md)
+  * [关键字替换和敏感词过滤工具](https://github.com/yilefreedom/zero-doc/blob/main/doc/keywords.md)
+  * [进程内缓存使用方法](https://github.com/yilefreedom/zero-doc/blob/main/doc/collection.md)
+  * [防止缓存击穿之进程内共享调用](https://github.com/yilefreedom/zero-doc/blob/main/doc/sharedcalls.md)
+  * [基于 prometheus 的微服务指标监控](https://github.com/yilefreedom/zero-doc/blob/main/doc/metric.md)
+  * [文本序列化和反序列化](https://github.com/yilefreedom/zero-doc/blob/main/doc/mapping.md)
+  * [快速构建 jwt 鉴权认证](https://github.com/yilefreedom/zero-doc/blob/main/doc/jwt.md)
 
 ## 8. 微信交流群
 
@@ -186,6 +186,6 @@ GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/yileCJW/g
 
 <img src="https://gitee.com/kevwan/static/raw/master/images/wechat.jpg" alt="wechat" width="300" />
 
-项目地址：[https://github.com/yileCJW/go-zero](https://github.com/yileCJW/go-zero)
+项目地址：[https://github.com/yilefreedom/go-zero](https://github.com/yilefreedom/go-zero)
 
 码云地址：[https://gitee.com/kevwan/go-zero](https://gitee.com/kevwan/go-zero) (国内用户可访问gitee，每日自动从github同步代码)

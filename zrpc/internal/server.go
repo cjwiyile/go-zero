@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/yileCJW/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/core/stat"
 	"google.golang.org/grpc"
 )
 

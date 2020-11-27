@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yileCJW/go-zero/core/mr"
+	"github.com/yilefreedom/go-zero/core/mr"
 )
 
 var (

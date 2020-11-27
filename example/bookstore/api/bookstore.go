@@ -8,8 +8,8 @@ import (
 	"bookstore/api/internal/handler"
 	"bookstore/api/internal/svc"
 
-	"github.com/yileCJW/go-zero/core/conf"
-	"github.com/yileCJW/go-zero/rest"
+	"github.com/yilefreedom/go-zero/core/conf"
+	"github.com/yilefreedom/go-zero/rest"
 )
 
 var configFile = flag.String("f", "etc/bookstore-api.yaml", "the config file")

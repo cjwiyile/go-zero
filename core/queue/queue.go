@@ -6,11 +6,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/rescue"
-	"github.com/yileCJW/go-zero/core/stat"
-	"github.com/yileCJW/go-zero/core/threading"
-	"github.com/yileCJW/go-zero/core/timex"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/rescue"
+	"github.com/yilefreedom/go-zero/core/stat"
+	"github.com/yilefreedom/go-zero/core/threading"
+	"github.com/yilefreedom/go-zero/core/timex"
 )
 
 const queueName = "queue"

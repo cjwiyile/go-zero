@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/yileCJW/go-zero/core/logx"
-	"github.com/yileCJW/go-zero/core/service"
-	"github.com/yileCJW/go-zero/rest"
-	"github.com/yileCJW/go-zero/rest/httpx"
+	"github.com/yilefreedom/go-zero/core/logx"
+	"github.com/yilefreedom/go-zero/core/service"
+	"github.com/yilefreedom/go-zero/rest"
+	"github.com/yilefreedom/go-zero/rest/httpx"
 )
 
 var (

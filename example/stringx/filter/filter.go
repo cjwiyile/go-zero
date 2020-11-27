@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yileCJW/go-zero/core/stringx"
+	"github.com/yilefreedom/go-zero/core/stringx"
 )
 
 func main() {

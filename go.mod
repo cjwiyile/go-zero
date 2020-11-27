@@ -1,4 +1,4 @@
-module github.com/yileCJW/go-zero
+module github.com/yilefreedom/go-zero
 
 go 1.13
 

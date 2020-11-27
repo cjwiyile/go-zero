@@ -1,6 +1,6 @@
 package svc
 
-import "github.com/yileCJW/go-zero/zrpc"
+import "github.com/yilefreedom/go-zero/zrpc"
 
 type ServiceContext struct {
 	Client zrpc.Client

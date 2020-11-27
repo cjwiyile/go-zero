@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yileCJW/go-zero/tools/goctl/model/sql/template"
-	"github.com/yileCJW/go-zero/tools/goctl/util"
+	"github.com/yilefreedom/go-zero/tools/goctl/model/sql/template"
+	"github.com/yilefreedom/go-zero/tools/goctl/util"
 )
 
 func TestGenTemplates(t *testing.T) {
